@@ -3,7 +3,7 @@
 ## 🎯 OBJECTIFS
 
 - Apréhender et maîtriser les concepts essentiels HTML et CSS
-- Savoir utiliser les balises sémantique HTML
+- Savoir utiliser les balises sémantiques HTML
 - Comprendre les sélécteurs CSS
 - Les bloc models
 - Positionnement en CSS
